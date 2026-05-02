@@ -1,3 +1,3 @@
-spring:
-  application:
-    name: generic-application-test-yaml
+user:
+  username: generic-user-test
+  password: generic-password-test

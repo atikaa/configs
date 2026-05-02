@@ -1,6 +1,0 @@
-spring:
-  application:
-    name: user-service-application-test-yaml
-user:
-  username: dev-username
-  password: dev-password
