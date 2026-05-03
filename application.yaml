@@ -1,3 +1,5 @@
 user:
   username: generic-user
   password: generic-password
+company:
+  id: default-company-id
