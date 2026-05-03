@@ -1,3 +1,5 @@
+server:
+  port: 8085
 user:
   username: generic-user
   password: generic-password
